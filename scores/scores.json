@@ -5,7 +5,7 @@
       "FrScTe2": 1,
       "FrScTe3": 1,
       "FrScTe4": 1,
-      "FrScTe5": 1,
+      "FrScTe5": 0,
       "FrScTe6": 1,
       "FrScTe7": 1,
       "FrScTe8": 1
@@ -56,8 +56,8 @@
     "Declarations to Arrow Tests The declarations have been converted to arrows": "DetoArTe1"
   },
   "humanReadable": {
-    "From Scratch Tests": "8/8",
-    "finalTestScore": "FINAL SCORE: 8/14",
+    "From Scratch Tests": "7/8",
+    "finalTestScore": "FINAL SCORE: 7/14",
     "Debug Tests": "0/4",
     "Explicit to Implicit Tests": "0/1",
     "Declarations to Arrow Tests": "0/1"

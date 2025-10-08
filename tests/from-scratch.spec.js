@@ -105,3 +105,12 @@ describe(testSuiteName, () => {
   beforeEach(() => scoreCounter.add(expect));
   afterAll(scoreCounter.export);
 });
+
+console.log(calculateArea(5, 3))
+console.log(isEven(2))
+console.log(convertToFahrenheit(100))
+console.log(createGreeting("Alice"))
+console.log(getInitials("John", "Doe"))
+console.log(formatPrice(5))
+console.log(getLarger(3, 5))
+console.log(isValidAge(121))
