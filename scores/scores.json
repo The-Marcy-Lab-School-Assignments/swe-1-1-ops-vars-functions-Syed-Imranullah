@@ -5,22 +5,22 @@
       "FrScTe2": 1,
       "FrScTe3": 1,
       "FrScTe4": 1,
-      "FrScTe5": 0,
+      "FrScTe5": 1,
       "FrScTe6": 1,
       "FrScTe7": 1,
       "FrScTe8": 1
     },
     "Debug Tests": {
-      "DeTe1": 0,
-      "DeTe2": 0,
-      "DeTe3": 0,
-      "DeTe4": 0
+      "DeTe1": 1,
+      "DeTe2": 1,
+      "DeTe3": 1,
+      "DeTe4": 1
     },
     "Explicit to Implicit Tests": {
-      "ExtoImTe1": 0
+      "ExtoImTe1": 1
     },
     "Declarations to Arrow Tests": {
-      "DetoArTe1": 0
+      "DetoArTe1": 1
     }
   },
   "idToTestNameHash": {
@@ -56,10 +56,10 @@
     "Declarations to Arrow Tests The declarations have been converted to arrows": "DetoArTe1"
   },
   "humanReadable": {
-    "From Scratch Tests": "7/8",
-    "finalTestScore": "FINAL SCORE: 7/14",
-    "Debug Tests": "0/4",
-    "Explicit to Implicit Tests": "0/1",
-    "Declarations to Arrow Tests": "0/1"
+    "From Scratch Tests": "8/8",
+    "finalTestScore": "FINAL SCORE: 14/14",
+    "Debug Tests": "4/4",
+    "Explicit to Implicit Tests": "1/1",
+    "Declarations to Arrow Tests": "1/1"
   }
 }

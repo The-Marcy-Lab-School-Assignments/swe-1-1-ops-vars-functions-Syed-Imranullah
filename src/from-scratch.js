@@ -26,7 +26,7 @@ const createGreeting = (name) => {
 
 const getInitials = (firstName, lastName) => {
   // TODO: Return initials by taking first letter of each name
-    return `${firstName[0].toUpperCase()}.${lastName[0].toUpperCase()}.`
+  return `${firstName[0].toUpperCase()}${lastName[0].toUpperCase()}`
 
 };
 
@@ -59,11 +59,12 @@ module.exports = {
   getLarger,
   isValidAge,
 };
-console.log(calculateArea(5, 3)); 
-console.log(isEven(2))
-console.log(convertToFahrenheit(100))
-console.log(createGreeting("Alice"))
-console.log(getInitials("John", "Doe"))
-console.log(formatPrice(5))
-console.log(getLarger(3, 5))
-console.log(isValidAge(121))
+
+//console.log(calculateArea(5, 3)); 
+//console.log(isEven(2))
+//console.log(convertToFahrenheit(100))
+// console.log(createGreeting("Alice"))
+// console.log(getInitials("John", "Doe"))
+// console.log(formatPrice(5))
+// console.log(getLarger(3, 5))
+// console.log(isValidAge(121))
